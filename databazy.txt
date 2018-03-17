@@ -1,0 +1,19 @@
+databaza: pocet databazzariadenie total used free
+
+mysql1: (1016 dbs)/dev/xvda 62G 30G 29G 52% /
+mysql2: (866 dbs)/dev/xvda 71G 36G 32G 54% /
+mysql3: (1051 dbs)/dev/xvda 86G 43G 43G 50% /
+mysql4: (648 dbs)/dev/sda1 58G 30G 25G 56% /
+mysql5: (133 dbs)/dev/sda1 69G 68G 1.5G 98% /
+mysql6: (1147 dbs)/dev/sda1 67G 43G 25G 64% /
+mysql7: (705 dbs)/dev/sda1 67G 35G 30G 54% /
+mysql8: (274 dbs)/dev/xvda 45G 29G 15G 67% /
+mysql9: (222 dbs)/dev/xvda1 32G 18G 14G 56% /
+mysql10: (289 dbs)/dev/xvda1 42G 23G 19G 55% /
+mysql11: (1163 dbs)/dev/xvda1 37G 21G 16G 57% /
+mysql12: (207 dbs)/dev/xvda 55G 32G 23G 59% /
+mysql13: (175 dbs)/dev/xvda 32G 18G 13G 59% /
+mysql14: (182 dbs)/dev/xvda 50G 28G 22G 57% /
+mysql15: (188 dbs)/dev/xvda 30G 17G 12G 59% /
+mysql16: (138 dbs)/dev/xvda 40G 34G 6.4G 84% /
+mysql17: (178 dbs)/dev/xvda 40G 24G 17G 60% /
